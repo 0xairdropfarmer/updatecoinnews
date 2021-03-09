@@ -42,7 +42,6 @@ const Post = ({ postNode, config, slug }) => {
         lazyload={config.lazyLoadComments}
         btnLoadComments={config.btnLoadComments}
       />
-      <TopCourse />
     </div>
   )
 }
