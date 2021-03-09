@@ -38,8 +38,6 @@
     "gatsby-remark-prismjs": "^3.2.9",
     "gatsby-remark-responsive-iframe": "^2.1.1",
     "gatsby-source-filesystem": "^2.0.33",
-    "gatsby-source-rss": "^1.0.0",
-    "gatsby-source-rss-feed": "^1.2.2",
     "gatsby-transformer-remark": "^2.3.12",
     "gatsby-transformer-sharp": "^2.1.19",
     "lodash": "^4.17.11",
