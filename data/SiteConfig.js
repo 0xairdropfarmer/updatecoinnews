@@ -84,8 +84,8 @@ const config = {
   // Use for navigation
   navTitle: "UpdateCoinNews",
   navLinks: [
-    { label: "เกี่ยวกับ", url: "/เกี่ยวกับ" },
-    { label: "ติดต่อ", url: "/ติดต่อ" },
+    { label: "เกี่ยวกับ", url: "/about" },
+    { label: "ติดต่อ", url: "/contact" },
   ],
   // Use for footer
   socialLinks: [

@@ -5,4 +5,4 @@ description: "This is a description on About"
 slug: "about"
 ---
 
-Hi everyone this site for js lover
+สวัสดีครับ UpdateCoinNews เกิดจากผมอยากแชร์ประสบการณ์และข่าวสาร ที่ได้ไปพบเจอมา 

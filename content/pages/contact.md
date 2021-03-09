@@ -5,4 +5,4 @@ description: "This is a description on Contact"
 slug: "contact"
 ---
 
-just contact me[@]kriss.io
+ติดต่อผมได้ที่เพจอัพเดทคอยนิวส์เลยครับ
