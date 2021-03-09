@@ -93,7 +93,7 @@ const MainLayout = ({ children, hasFooter = true }) => (
       <meta name="theme-color" content="#ffffff" />
     </Helmet>
     <Navigation
-      brand={logo}
+      brand={siteConfig.siteLogo}
       title={siteConfig.navTitle}
       links={siteConfig.navLinks}
     />
