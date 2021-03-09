@@ -25,6 +25,13 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-rss`,
+      options: {
+        rssURL: `https://medium.com/feed/@kris101`,
+      },
+    },
+    "gatsby-plugin-social-cards",
+    {
       resolve: `gatsby-plugin-google-adsense`,
       options: {
         publisherId: `ca-pub-1271129097291274`,
