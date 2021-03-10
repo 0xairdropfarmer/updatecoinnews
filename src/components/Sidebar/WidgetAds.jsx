@@ -10,8 +10,7 @@ return(
   <>
   <WidgetContainer extraClass="categories-container">
     <WidgetTitle title="Sponsor" />
-
-   <a href="https://www.binance.com/en/register?ref=28853355" target="_blank" rel="nofollow noopener noreferrer">
+   <a href="https://www.binance.com/en/register?ref=Q4WT3GTW" target="_blank" rel="nofollow noopener noreferrer">
     <img src={binance_banner} />
     </a>
   </WidgetContainer>

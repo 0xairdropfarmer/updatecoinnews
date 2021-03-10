@@ -1,6 +1,7 @@
 ---
 title: "5 เครื่องมือช่วยตามดูพอร์ท Defi ของ เรา"
 excerpt: "ลงทุนใน DEFI แต่ดูไม่ออก ว่าตอนนี้ ต้นทุนเรามี หรือเหลือเท่าไร เว็บเหล่านี้ช่วยคุณได้"
+cover: "../images/placeholder-660x400-344359.png"
 author: "krissanawat"
 template: "post"
 date: "2021-01-03T07:09:17.461Z"
