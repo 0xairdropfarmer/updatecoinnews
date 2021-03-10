@@ -13,6 +13,7 @@ class SEO extends Component {
     let postURL;
     if (postSEO) {
       const postMeta = postNode.frontmatter;
+      console.log(postMeta);
       ({ title } = postMeta);
       description = postMeta.description
         ? postMeta.description

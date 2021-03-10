@@ -5,6 +5,7 @@ cover: "../images/placeholder-660x400-344359.png"
 author: "krissanawat"
 template: "post"
 date: "2021-01-03T07:09:17.461Z"
+cover: "https://cdn-images-1.medium.com/max/2352/1*0HJWjZsUwuYzNBEg3aBguA.png"
 draft: false
 layout: "post"
 slug: "5-best-defil-watcher"
