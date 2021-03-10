@@ -24,12 +24,6 @@ module.exports = {
         pixelId: "349929655165679",
       },
     },
-    {
-      resolve: `gatsby-source-rss`,
-      options: {
-        rssURL: `https://medium.com/feed/@kris101`,
-      },
-    },
     "gatsby-plugin-social-cards",
     {
       resolve: `gatsby-plugin-google-adsense`,
