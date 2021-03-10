@@ -9,6 +9,7 @@ const Footer = ({ socials, links, copyright }) => (
       text-center padding-top padding-bottom-half"
   >
     <div className="container">
+      
       <SocialLinks socials={socials} color="#FFF" />
       <FooterLinks links={links} />
       <Copyright copyright={copyright} />

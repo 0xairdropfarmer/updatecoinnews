@@ -8,6 +8,7 @@ categories:
   - อีลอน มัส
 tags:
   - บอทอีลอนมัส
+cover: "../images/chainlist.png"
 ---
 
 ![](https://cdn-images-1.medium.com/max/2000/1*0mNZcSL8nUtCEtz9bkmA9w.png)
