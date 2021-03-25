@@ -7,6 +7,8 @@ title: สอนลงฟาร์มบน pancakeswap ตั้งแต่แ
 tags:
   - pancakeswap
   - defi
+categories:
+  - pancakeswap
 template: post
 ---
 เชื่อว่าท่านที่สนใจในเรื่องคริบโต ต้องเคยได้ยินคำว่าทำฟาร์ม อยู่แล้ว แต่อาจจะไม่เคยทำเองจริงๆ เลย หลายคนถามวิธีการทำมาในเพจ ผมเลยแคบจอมาอธิบายการทำแบบสเตปบายสเตปกันเลยครับ โดยหลักคือผมกะจะลงฟาร์มบน Pancakeswap คู่เหรียญ CAKE กับ BNB โดยจะลงทั้งหมด 1 BNB 
@@ -30,7 +32,7 @@ template: post
 
 ![pancakeswap/Untitled.png](../images/pancakeswap/Untitled.png)
 
-ตอนนี้กำลังรันแคมเปญแจกแอดรอบจากการแชร์ อยู่ท่านใดสนใจสมัครได้ที่ลิงค์นี้เลยครับ >>> สมัคร [Bitazz](https://rank.bitazza.com/?kid=1FX3AQ)
+ตอนนี้กำลังรันแคมเปญแจกแอดรอบจากการแชร์ อยู่ท่านใดสนใจสมัครได้ที่ลิงค์นี้เลยครับ >>> สมัคร [Bitazza](https://rank.bitazza.com/?kid=1FX3AQ)
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e1bf9520-8a67-4dc9-9c8c-17673cfef777/Untitled.png](../images/pancakeswap/Untitled(1).png)
 
