@@ -2,13 +2,12 @@
 keywords: pancakeswap
 slug: how-to-start-on-pancakeswap
 date: 2021-01-02T14:54:10.962Z
-cover: "../images/pancakeswap.png"
+cover: "../images/pancakeswap/pancakeswap-post-cover.png"
 title: สอนลงฟาร์มบน pancakeswap ตั้งแต่แลกตังจนชาวสวนเต็มตัว
 tags:
   - pancakeswap
   - defi
 template: post
-cover: "../images/pancakeswap/pancakeswap-post-cover.png"
 ---
 เชื่อว่าท่านที่สนใจในเรื่องคริบโต ต้องเคยได้ยินคำว่าทำฟาร์ม อยู่แล้ว แต่อาจจะไม่เคยทำเองจริงๆ เลย หลายคนถามวิธีการทำมาในเพจ ผมเลยแคบจอมาอธิบายการทำแบบสเตปบายสเตปกันเลยครับ โดยหลักคือผมกะจะลงฟาร์มบน Pancakeswap คู่เหรียญ CAKE กับ BNB โดยจะลงทั้งหมด 1 BNB 
 
