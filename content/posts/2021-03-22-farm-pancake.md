@@ -1,7 +1,7 @@
 ---
-keywords: pancakeswap
+template: post
 slug: how-to-start-on-pancakeswap
-date: 2021-01-02T14:54:10.962Z
+date: 2021-03-22T14:54:10.962Z
 cover: "../images/pancakeswap/pancakeswap-post-cover.png"
 title: สอนลงฟาร์มบน pancakeswap ตั้งแต่แลกตังจนชาวสวนเต็มตัว
 tags:
@@ -9,7 +9,7 @@ tags:
   - defi
 categories:
   - pancakeswap
-template: post
+
 ---
 **คำเตือน : ไม่ใช่คำแนะนำทางการเงิน การลงทุนในคริปโตมีความเสี่ยงสูงมาก**
 
