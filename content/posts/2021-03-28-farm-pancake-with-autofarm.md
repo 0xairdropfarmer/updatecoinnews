@@ -3,7 +3,7 @@ template: post
 slug: how-to-start-on-autofarm
 date: 2021-03-28T14:54:10.962Z
 cover: "../images/autorfarm/cover.png"
-title: เริ่มต้นเป็นชาวนา แบบขี้เกียจ ด้วย pancakeswap + autofarm
+title: เริ่มต้นเป็นชาวนา แบบขี้เกียจ ด้วย Pancakeswap + Autofarm
 tags:
   - pancakeswap
   - defi
