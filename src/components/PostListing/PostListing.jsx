@@ -26,7 +26,7 @@ class PostListing extends Component {
       <>
         <div className="post-listing-container">
           {postList.map((post, index) => {
-            if (index == 3) return (<PostAaffiliateWidget href={'https://click.linksynergy.com/link?id=cDElGBdnNrA&offerid=507388.959700&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-react-native-and-redux-course%2F'} anchor={'Understand React Native with Hooks, Context, and React Navigation.'} />)
+            if (index == 3) return (<PostAaffiliateWidget href={'https://www.binance.com/en/register?ref=28853355'} />)
 
             if (index < maxPosts) return (
 
